@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@theme {
+    --spacing-14: 3.24rem;
+
+
+    --color-hoverspt: #1BD760;
+    --color-purple-main: #2D46B9;
+    --color-green-main: #1ED760;
+
+    /* --background-spotify-theme: url("./img/bursts.svg");
+    --bg-spotify-theme-mobile: url("./img/bursts-mobile.svg"); */
+
+    --text-9xl: 9rem;
+
+}
+
